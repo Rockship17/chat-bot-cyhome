@@ -24,7 +24,7 @@ Chat Bot CyHome là một trợ lý thông minh, luôn sẵn sàng hỗ trợ ng
 - Người dùng có thể đặt câu hỏi và nhận được phản hồi ngay lập tức từ chat bot.
 
 ## Liên hệ
-Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với tôi qua email: ngothiep2412@example.com.
+Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với tôi qua email: rockship17.co@gmail.com
 
 ## Giấy phép
 Dự án này được cấp phép theo Giấy phép MIT. 
